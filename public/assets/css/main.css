@@ -7,7 +7,7 @@
 	text-align: center;
 	height: auto;
 	width: 100%;
-	margin-top: 10px;
+	margin-top: 20px;
 }
 
 .profile-img {
@@ -24,6 +24,15 @@ br {
 	overflow-x: auto;
 }
 
+.skillset-table {
+	white-space: nowrap;
+}
+
+::-webkit-scrollbar {
+    height: 0px;
+	width: 0px;
+	overflow: hidden;
+}
 
 /* Particles */
 
@@ -3452,6 +3461,7 @@ body.is-menu-visible #menu {
 	-ms-justify-content: center;
 	justify-content: center;
 	cursor: default;
+	height: auto;
 	min-height: 35em;
 	overflow: hidden;
 	text-align: center;

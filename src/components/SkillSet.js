@@ -9,7 +9,7 @@ export default class SkillSet extends Component {
                         <div className="image"><img src="%PUBLIC_URL%/../images/mac.jpg" alt="" /></div>
                         <div className="content">
                             <h3>Software Engineering / Data Analytics</h3>
-                            <div className="table">
+                            <div className="table skillset-table">
                                 <table>
                                     <tbody>
                                         <tr>
@@ -25,8 +25,8 @@ export default class SkillSet extends Component {
                                             <td>Django</td>
                                             <td>React</td>
                                             <td>NodeJS</td>
-                                            <td>Django REST Framework</td>
                                             <td>Laravel</td>
+                                            <td>Django REST Framework</td>
                                         </tr>
                                         <tr>
                                             <td>Databases</td>
