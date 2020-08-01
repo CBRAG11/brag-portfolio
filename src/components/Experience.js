@@ -9,7 +9,7 @@ export default class Experience extends Component {
             <header className="major">
               <h2>My Professional Experience?</h2>
             </header>
-            <div className="table">
+            <div className="table experience-table">
               <table>
                 <thead>
                   <tr>
