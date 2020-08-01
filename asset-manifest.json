@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/brag-portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/brag-portfolio/static/js/main.a04620d5.chunk.js",
-    "main.js.map": "/brag-portfolio/static/js/main.a04620d5.chunk.js.map",
+    "main.js": "/brag-portfolio/static/js/main.a30ca030.chunk.js",
+    "main.js.map": "/brag-portfolio/static/js/main.a30ca030.chunk.js.map",
     "runtime-main.js": "/brag-portfolio/static/js/runtime-main.cd7998b5.js",
     "runtime-main.js.map": "/brag-portfolio/static/js/runtime-main.cd7998b5.js.map",
     "static/js/2.73b292a3.chunk.js": "/brag-portfolio/static/js/2.73b292a3.chunk.js",
     "static/js/2.73b292a3.chunk.js.map": "/brag-portfolio/static/js/2.73b292a3.chunk.js.map",
     "index.html": "/brag-portfolio/index.html",
-    "precache-manifest.9e40c970815357edf739785002b6f88f.js": "/brag-portfolio/precache-manifest.9e40c970815357edf739785002b6f88f.js",
+    "precache-manifest.2fbbcf3cd5a558091e2713903818acd6.js": "/brag-portfolio/precache-manifest.2fbbcf3cd5a558091e2713903818acd6.js",
     "service-worker.js": "/brag-portfolio/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/brag-portfolio/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.73b292a3.chunk.js.LICENSE.txt": "/brag-portfolio/static/js/2.73b292a3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cd7998b5.js",
     "static/js/2.73b292a3.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a04620d5.chunk.js"
+    "static/js/main.a30ca030.chunk.js"
   ]
 }
