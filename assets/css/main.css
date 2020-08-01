@@ -7,6 +7,7 @@
 	text-align: center;
 	height: auto;
 	width: 100%;
+	margin-top: 10px;
 }
 
 .profile-img {
@@ -3451,7 +3452,6 @@ body.is-menu-visible #menu {
 	-ms-justify-content: center;
 	justify-content: center;
 	cursor: default;
-	height: 100vh;
 	min-height: 35em;
 	overflow: hidden;
 	text-align: center;
