@@ -24,15 +24,20 @@ br {
 	overflow-x: auto;
 }
 
+.experience-table {
+	text-align: left;
+}
+
 .skillset-table {
 	white-space: nowrap;
 }
 
 ::-webkit-scrollbar {
-    height: 0px;
+	height: 0px;
 	width: 0px;
 	overflow: hidden;
 }
+
 
 /* Particles */
 
