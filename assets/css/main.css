@@ -3478,7 +3478,6 @@ body.is-menu-visible #menu {
 	justify-content: center;
 	cursor: default;
 	height: auto;
-	min-height: 100vh;
 	overflow: hidden;
 	text-align: center;
 	/* changed */
