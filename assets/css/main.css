@@ -13,7 +13,7 @@
 .profile-img {
 	border-radius: 50%;
 	height: auto;
-	width: 16%;
+	width: 14%;
 }
 
 br {
@@ -3478,7 +3478,7 @@ body.is-menu-visible #menu {
 	justify-content: center;
 	cursor: default;
 	height: auto;
-	min-height: 35em;
+	min-height: 100vh;
 	overflow: hidden;
 	text-align: center;
 	/* changed */
