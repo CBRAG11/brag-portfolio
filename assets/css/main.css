@@ -56,8 +56,7 @@ br {
 	background-color: black;
 	z-index: -1;
 	position: absolute !important;
-	height: 800px;
-	min-height: 500px;
+	height: 100vh;
 	width: 100%;
 	background-size: cover !important;
 	-webkit-background-size: cover !important;
@@ -3613,8 +3612,7 @@ body.is-menu-visible #menu {
 @media screen and (max-width: 736px) {
 	#banner {
 		padding: 4em 3em 5em 3em;
-		height: auto;
-		min-height: 0;
+		height: 100vh;
 	}
 	#banner h2 {
 		font-size: 1.25em;
