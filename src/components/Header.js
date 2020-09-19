@@ -7,7 +7,7 @@ export default class Header extends Component {
         <section id="banner">
           <div className="inner">
             <div className="img-container" >
-              <img className="profile-img" src="%PUBLIC_URL%/../images/profile-1.png" alt="" />
+              <img className="profile-img" src="%PUBLIC_URL%/../images/Me8a.png" alt="" />
             </div>
             <h2><span>Clinton Braganza</span></h2>
             <span>

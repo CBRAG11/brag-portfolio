@@ -13,7 +13,7 @@
 .profile-img {
 	border-radius: 50%;
 	height: auto;
-	width: 16%;
+	width: 14%;
 }
 
 br {
@@ -56,8 +56,7 @@ br {
 	background-color: black;
 	z-index: -1;
 	position: absolute !important;
-	height: 800px;
-	min-height: 500px;
+	height: 100vh;
 	width: 100%;
 	background-size: cover !important;
 	-webkit-background-size: cover !important;
@@ -3478,13 +3477,13 @@ body.is-menu-visible #menu {
 	justify-content: center;
 	cursor: default;
 	height: auto;
-	min-height: 35em;
 	overflow: hidden;
 	text-align: center;
 	/* changed */
 	position: relative;
 	left: 0;
 	right: 0;
+	min-height: 100vh;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -3612,9 +3611,8 @@ body.is-menu-visible #menu {
 
 @media screen and (max-width: 736px) {
 	#banner {
-		padding: 7em 3em 5em 3em;
-		height: auto;
-		min-height: 0;
+		padding: 4em 3em 5em 3em;
+		height: 100vh;
 	}
 	#banner h2 {
 		font-size: 1.25em;
