@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9cd795384c7a3355f0a019873b1a4b1",
+    "revision": "9eef15878f70f7e6c2e65eb7456953da",
     "url": "/brag-portfolio/index.html"
   },
   {
-    "revision": "bca21f5aa59fda2fa578",
+    "revision": "8f9fd190553d421ee172",
     "url": "/brag-portfolio/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brag-portfolio/static/js/2.f4b15938.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bca21f5aa59fda2fa578",
-    "url": "/brag-portfolio/static/js/main.dc6740d7.chunk.js"
+    "revision": "8f9fd190553d421ee172",
+    "url": "/brag-portfolio/static/js/main.0e80074f.chunk.js"
   },
   {
     "revision": "35cc159cae12fbf77a35",
