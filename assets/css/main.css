@@ -4,7 +4,7 @@
 /* Particles */
 
 .particles {
-	background-color: black;
+	background-color: #000000;
 	z-index: -1;
 	position: absolute !important;
 	height: 100vh;
@@ -182,7 +182,6 @@ br {
 	grid-column: span 2;
 	grid-row: span 2;
 }
-
 
 /** LIGHTBOX MARKUP **/
 
