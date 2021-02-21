@@ -1812,7 +1812,7 @@ header h6+p {
 }
 
 header.major {
-	margin: 0 0 3.5em 0;
+	margin: 0 0 2em 0;
 }
 
 header.major h2,
@@ -2823,7 +2823,7 @@ button:disabled,
 /* Wrapper */
 
 .wrapper {
-	padding: 2em 0 2em 0;
+	padding: 4em 0 4em 0;
 }
 
 .wrapper>.inner {
