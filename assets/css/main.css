@@ -3920,6 +3920,10 @@ body.is-mobile #main>header {
 	background-attachment: scroll;
 }
 
+/* Description */
+p.description {
+	text-align: left;
+}
 
 /* Footer */
 
