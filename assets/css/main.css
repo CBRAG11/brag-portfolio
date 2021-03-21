@@ -14,11 +14,11 @@
 	text-align: center;
 	overflow: hidden;
 }
-/* 
+
 .tsparticles-canvas-el {
-	height: 100vh !important;
-	width: 100vw !important;
-} */
+	min-height: 100vh;
+	width: 100vw;
+}
 
 /* Profile Picture */
 
