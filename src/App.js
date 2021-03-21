@@ -5,6 +5,7 @@ import Header from './components/Header';
 import Description from './components/Description';
 import Experience from './components/Experience';
 import SkillSet from './components/SkillSet';
+import Gallery from './components/Gallery';
 import Courses from './components/Courses';
 import PersonalProjects from './components/PersonalProjects';
 import Footer from './components/Footer';
@@ -49,7 +50,6 @@ const particlesOptions = {
   retina_detect: true
 };
 
-
 class App extends Component {
   render() {
     return (
@@ -61,6 +61,7 @@ class App extends Component {
           <Description />
           <Experience />
           <SkillSet />
+          <Gallery />
           <Courses />
           <PersonalProjects />
           <Footer />
