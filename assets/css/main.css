@@ -22,7 +22,7 @@
 	text-align: center;
 	height: auto;
 	width: 100%;
-	/* margin-top: 15%; */
+	margin-top: 20px;
 }
 
 .profile-img {
@@ -3632,12 +3632,10 @@ body.is-menu-visible #menu {
 	-ms-justify-content: center;
 	justify-content: center;
 	cursor: default;
-	height: 100vh;
-	/* overflow: hidden; */
+	min-height: 100vh;
+	overflow: hidden;
 	text-align: center;
 	/* altered */
-	padding-top: 15%;
-	margin-bottom: 15%;
 	position: relative;
 	left: 0;
 	right: 0;
