@@ -3631,14 +3631,15 @@ body.is-menu-visible #menu {
 	-ms-justify-content: center;
 	justify-content: center;
 	cursor: default;
-	height: auto;
+	height: 100vh;
+	width: 100vw;
 	overflow: hidden;
 	text-align: center;
 	/* altered */
 	position: relative;
 	left: 0;
 	right: 0;
-	min-height: 100vh;
+	/* min-height: 100vh; */
 	margin-left: auto;
 	margin-right: auto;
 }
