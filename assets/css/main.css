@@ -3632,7 +3632,7 @@ body.is-menu-visible #menu {
 	-ms-justify-content: center;
 	justify-content: center;
 	cursor: default;
-	min-height: 100vh;
+	height: 100vh;
 	overflow: hidden;
 	text-align: center;
 	/* altered */
@@ -3767,7 +3767,7 @@ body.is-menu-visible #menu {
 @media screen and (max-width: 736px) {
 	#banner {
 		padding: 4em 3em 5em 3em;
-		height: 100vh;
+		min-height: 100vh;
 	}
 	#banner h2 {
 		font-size: 1.25em;
