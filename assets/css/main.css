@@ -30,6 +30,7 @@
 	justify-content: center;
 	cursor: default;
 	/* altered */
+	/* height: 100vh; */
 	overflow: hidden;
 	text-align: center;
 	/* altered */
@@ -44,7 +45,7 @@
 
 .img-container {
 	text-align: center;
-	height: 100%;
+	height: auto;
 	width: 100%;
 	margin-top: 20px;
 }
