@@ -7,9 +7,9 @@
 	background-color: #000000;
 	z-index: -1;
 	position: absolute !important;
-	height: 100vh;
+	/* height: 100vh; */
 	width: 100vw;
-	/* min-height: -webkit-fill-available; */
+	min-height: -webkit-fill-available;
 	background-size: cover !important;
 	-webkit-background-size: cover !important;
 	text-align: center;
@@ -3636,6 +3636,8 @@ body.is-menu-visible #menu {
 	overflow: hidden;
 	text-align: center;
 	/* altered */
+	padding-top: 15%;
+	margin-bottom: 15%;
 	position: relative;
 	left: 0;
 	right: 0;
