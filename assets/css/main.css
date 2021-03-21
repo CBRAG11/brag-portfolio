@@ -7,7 +7,7 @@
 	background-color: #000000;
 	z-index: -1;
 	position: absolute !important;
-	height: 100vh;
+	/* height: 100vh; */
 	width: 100vw;
 	min-height: -webkit-fill-available;
 	background-size: cover !important;
@@ -3633,7 +3633,6 @@ body.is-menu-visible #menu {
 	justify-content: center;
 	cursor: default;
 	height: 100vh;
-	width: 100vw;
 	overflow: hidden;
 	text-align: center;
 	/* altered */
